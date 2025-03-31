@@ -29,8 +29,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wd1Liu"><img src="https://avatars.githubusercontent.com/u/116657782?v=4?s=100" width="100px;" alt="Edison Liu"/><br /><sub><b>Edison Liu</b></sub></a><br /><a href="https://github.com/edjasonchn/Purdue-wiki/commits?author=Wd1Liu" title="Code">💻</a> <a href="https://github.com/edjasonchn/Purdue-wiki/commits?author=Wd1Liu" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/edjasonchn"><img src="https://avatars.githubusercontent.com/u/54066603?v=4?s=100" width="100px;" alt="Jason Xue"/><br /><sub><b>Jason Xue</b></sub></a><br /><a href="https://github.com/edjasonchn/Purdue-wiki/commits?author=edjasonchn" title="Code">💻</a> <a href="https://github.com/edjasonchn/Purdue-wiki/commits?author=edjasonchn" title="Documentation">📖</a> <a href="#ideas-edjasonchn" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wd1Liu"><img src="https://avatars.githubusercontent.com/u/116657782?v=4?s=100" width="100px;" alt="Edison Liu"/><br /><sub><b>Edison Liu</b></sub></a><br /><a href="https://github.com/edjasonchn/Purdue-wiki/commits?author=Wd1Liu" title="Code">💻</a> <a href="https://github.com/edjasonchn/Purdue-wiki/commits?author=Wd1Liu" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
