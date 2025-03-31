@@ -19,7 +19,7 @@ features:
   - title: Clean & Fast
     details: 基于 VuePress 2，界面简洁，页面加载迅速，体验良好。
 
-footer: MIT Licensed | Copyright © 2025 Purdue Wiki Contributors | 本网站为非官方项目，与普渡大学无关。 | This site is an independent project and is not affiliated with Purdue University.
+footer: Copyright © 2025 Purdue Wiki Contributors | 本网站为非官方项目，与普渡大学无关。 | This site is an independent project and is not affiliated with Purdue University.
 ---
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
