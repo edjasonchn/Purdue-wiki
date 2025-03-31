@@ -1,7 +1,6 @@
 ---
 home: true
 title: Home
-heroImage: /purdue_wiki_logo.svg
 actions:
   - text: 开始
     link: /get-started.html

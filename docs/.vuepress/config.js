@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: 'Purdue Wiki for Transfer Student',
 
   theme: defaultTheme({
-    logo: '/logo.png',
+    logo: '/purdue_wiki_logo.svg',
 
     navbar: [
       {text: '首页', link: '/'}, 
@@ -34,5 +34,9 @@ export default defineUserConfig({
       },
   }),
 
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+  ],
+  
   bundler: viteBundler(),
 })
