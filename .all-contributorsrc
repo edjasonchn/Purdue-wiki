@@ -8,16 +8,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "Wd1Liu",
-      "name": "Edison Liu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/116657782?v=4",
-      "profile": "https://github.com/Wd1Liu",
-      "contributions": [
-        "code",
-        "doc"
-      ]
-    },
-    {
       "login": "edjasonchn",
       "name": "Jason Xue",
       "avatar_url": "https://avatars.githubusercontent.com/u/54066603?v=4",
@@ -26,6 +16,16 @@
         "code",
         "doc",
         "ideas"
+      ]
+    },
+    {
+      "login": "Wd1Liu",
+      "name": "Edison Liu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116657782?v=4",
+      "profile": "https://github.com/Wd1Liu",
+      "contributions": [
+        "code",
+        "doc"
       ]
     }
   ],
