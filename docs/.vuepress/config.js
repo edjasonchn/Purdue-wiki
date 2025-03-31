@@ -8,6 +8,12 @@ export default defineUserConfig({
   title: 'Purdue Wiki',
   description: 'Purdue Wiki for Transfer Student',
 
+  head: [
+    [
+        'link', { rel: 'icon', href: '/favicon.ico'}
+    ]
+  ],
+  
   theme: defaultTheme({
     logo: '/logo/logo.png',
 
