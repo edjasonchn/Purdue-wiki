@@ -3,7 +3,7 @@
 A student-powered, community-maintained knowledge base for Purdue University.  
 Powered by [VuePress 2](https://vuejs.press/), deployed with [Cloudflare Pages](https://pages.cloudflare.com/).
 
-一个由学生社区驱动的普渡大学非官方 Wiki，整理课程经验、资源与生活指南。
+一个由学生社区驱动的普渡大学非官方 Wiki，整理课程经验、资源与生活指南。Boiler UP!
 
 ---
 
