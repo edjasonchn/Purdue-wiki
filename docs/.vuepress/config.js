@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: 'Purdue Wiki for Transfer Student',
 
   theme: defaultTheme({
-    logo: '/logo.png',
+    logo: '/logo/logo.png',
 
     navbar: [
       {text: '首页', link: '/'}, 
