@@ -42,7 +42,7 @@ Welcome to the Purdue Wiki documentation hub! Here you'll find course guides, ac
 
 [![欢迎贡献](https://img.shields.io/badge/PurdueWiki-Email-blue)](mailto:purduewiki@outlook.com)
 
-👉 [点击进入 GitHub 仓库](https://github.com/edjasonchn/Purdue-wiki)
+[![点击进入 GitHub 仓库](https://img.shields.io/badge/点击进入-GitHub仓库-green)](https://github.com/edjasonchn/Purdue-wiki)
 
 ---
 
