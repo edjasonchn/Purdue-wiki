@@ -19,6 +19,8 @@ export default defineUserConfig({
     docsBranch: 'master',
     docsDir: 'docs',
 
+    editLinkText: '在GitHub上编辑此页',
+
     logo: '/logo/logo.png',
 
     navbar: [
