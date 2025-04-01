@@ -8,6 +8,17 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "edjasonchn",
+      "name": "Jason Xue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54066603?v=4",
+      "profile": "https://github.com/edjasonchn",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
       "login": "Wd1Liu",
       "name": "Edison Liu",
       "avatar_url": "https://avatars.githubusercontent.com/u/116657782?v=4",
