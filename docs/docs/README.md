@@ -36,7 +36,11 @@ Welcome to the Purdue Wiki documentation hub! Here you'll find course guides, ac
 
 ## ✍️ 参与贡献 / Contribute
 
-我们欢迎每一位 Purdue 学生来贡献内容！你可以在 GitHub 上提交 PR，也可以发起讨论改进现有内容。
+我们欢迎每一位 Purdue 学生来贡献内容！你可以在 GitHub 上提交**Pull Request**（PR），也可以发起讨论改进现有内容。
+
+如有任何问题或需要进一步交流，欢迎通过以下邮箱联系我们：
+
+[![欢迎贡献](https://img.shields.io/badge/PurdueWiki-Email-blue)](mailto:purduewiki@outlook.com)
 
 👉 [点击进入 GitHub 仓库](https://github.com/edjasonchn/Purdue-wiki)
 
