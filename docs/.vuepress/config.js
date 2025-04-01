@@ -20,6 +20,7 @@ export default defineUserConfig({
     docsDir: 'docs',
 
     editLinkText: '在GitHub上编辑此页',
+    contributorsText: '贡献者',
 
     logo: '/logo/logo.png',
 
