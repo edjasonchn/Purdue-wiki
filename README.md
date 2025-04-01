@@ -3,6 +3,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[Purdue.wiki](https://purdue.wiki/)
+
 A student-powered, community-maintained knowledge base for Purdue University.  
 Powered by [VuePress 2](https://vuejs.press/), deployed with [Cloudflare Pages](https://pages.cloudflare.com/).
 
