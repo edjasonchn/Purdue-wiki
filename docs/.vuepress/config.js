@@ -15,6 +15,10 @@ export default defineUserConfig({
   ],
   
   theme: defaultTheme({
+    docsRepo: 'https://github.com/edjasonchn/Purdue-wiki',
+    docsBranch: 'master',
+    docsDir: 'docs',
+
     logo: '/logo/logo.png',
 
     navbar: [
